@@ -1,0 +1,27 @@
+
+Rocket.png
+size: 788, 788
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Rocket0000
+  rotate: false
+  xy: 2, 294
+  size: 784, 244
+  orig: 784, 244
+  offset: 0, 0
+  index: -1
+Rocket0001
+  rotate: false
+  xy: 2, 540
+  size: 784, 244
+  orig: 784, 244
+  offset: 0, 0
+  index: -1
+Rocket0002
+  rotate: false
+  xy: 2, 48
+  size: 784, 244
+  orig: 784, 244
+  offset: 0, 0
+  index: -1

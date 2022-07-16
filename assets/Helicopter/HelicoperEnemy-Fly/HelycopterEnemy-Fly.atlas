@@ -1,0 +1,27 @@
+
+HelycopterEnemy-Fly.png
+size: 1068, 1068
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Helicopter-2 Fly0000
+  rotate: false
+  xy: 2, 2
+  size: 858, 353
+  orig: 858, 353
+  offset: 0, 0
+  index: -1
+Helicopter-2 Fly0001
+  rotate: false
+  xy: 2, 357
+  size: 858, 353
+  orig: 858, 353
+  offset: 0, 0
+  index: -1
+Helicopter-2 Fly0002
+  rotate: false
+  xy: 2, 712
+  size: 858, 353
+  orig: 858, 353
+  offset: 0, 0
+  index: -1

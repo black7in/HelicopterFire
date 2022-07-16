@@ -1,0 +1,27 @@
+
+Helicopter-Fly.png
+size: 915, 1091
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Helicopter-Fly0000
+  rotate: false
+  xy: 2, 365
+  size: 911, 361
+  orig: 911, 361
+  offset: 0, 0
+  index: -1
+Helicopter-Fly0001
+  rotate: false
+  xy: 2, 728
+  size: 911, 361
+  orig: 911, 361
+  offset: 0, 0
+  index: -1
+Helicopter-Fly0002
+  rotate: false
+  xy: 2, 2
+  size: 911, 361
+  orig: 911, 361
+  offset: 0, 0
+  index: -1

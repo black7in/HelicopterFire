@@ -1,0 +1,90 @@
+
+loader.png
+size: 556, 556
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+loading-bar-anim
+  rotate: false
+  xy: 1, 442
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: 2
+loading-bar-anim
+  rotate: false
+  xy: 1, 340
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: 4
+loading-bar-anim
+  rotate: false
+  xy: 1, 289
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: 1
+loading-bar-anim
+  rotate: false
+  xy: 1, 238
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: 3
+loading-bar-anim
+  rotate: false
+  xy: 1, 136
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: 5
+loading-bar-hidden
+  rotate: false
+  xy: 504, 437
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+loading-bar1
+  rotate: false
+  xy: 1, 391
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: -1
+loading-bar2
+  rotate: false
+  xy: 1, 187
+  size: 501, 49
+  orig: 501, 49
+  offset: 0, 0
+  index: -1
+loading-frame
+  rotate: false
+  xy: 1, 493
+  size: 540, 60
+  orig: 540, 60
+  offset: 0, 0
+  index: -1
+loading-frame-bg
+  rotate: false
+  xy: 543, 548
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 66
+  size: 408, 68
+  orig: 408, 68
+  offset: 0, 0
+  index: -1
+screen-bg
+  rotate: false
+  xy: 550, 548
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
